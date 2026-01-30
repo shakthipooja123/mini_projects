@@ -1,4 +1,4 @@
-# mini_project
+# mini_projects
 
 This repository contains a collection of engineering mini projects developed as a part of self-learning.  
 The projects focus on IoT simulation using ESP32 and basic UI/UX application design.
