@@ -35,12 +35,13 @@ An IoT-based obstacle detection system simulated using ESP32 and an ultrasonic s
 
 ---
 
-### 2️⃣ Lexicode – UI Design Mockup
-A UI/UX mockup designed for an educational application concept.
+### 2️⃣ Lexicode – A console-based prototype to make learning easier for people with dyslexia
 
 **Highlights:**
-- Clean and minimal interface
-- Focus on usability and layout by color coding, prioritisation, syllable division
+- Color Coding for prioritization
+-Syllable division
+-Confusables(p,q;b,d)differentiation
+- TTS support in normal and slower mode
 - C/Python console based
 
 ---
@@ -61,7 +62,7 @@ UI mockups created to practice basic UI/UX principles via experimentation (Figma
 -(Figma / Canva)
 -C compiler
 -Python IDE
--Python inbuilt libraries (for AI Simulation and Infographics)
+-Python inbuilt libraries
 
 ---
 
